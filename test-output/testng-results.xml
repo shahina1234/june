@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="67832" started-at="2018-06-01T07:11:10Z" finished-at="2018-06-01T07:12:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="67832" started-at="2018-06-01T07:11:10Z" finished-at="2018-06-01T07:12:18Z">
+      <class name="ecommerce.ecommerce.TC001_Login">
+        <test-method status="PASS" signature="startprocess(java.lang.String)[pri:0, instance:ecommerce.ecommerce.TC001_Login@782663d3]" name="startprocess" is-config="true" duration-ms="55645" started-at="2018-06-01T07:11:10Z" finished-at="2018-06-01T07:12:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startprocess -->
+        <test-method status="PASS" signature="login()[pri:0, instance:ecommerce.ecommerce.TC001_Login@782663d3]" name="login" duration-ms="12144" started-at="2018-06-01T07:12:06Z" finished-at="2018-06-01T07:12:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="endprocess()[pri:0, instance:ecommerce.ecommerce.TC001_Login@782663d3]" name="endprocess" is-config="true" duration-ms="0" started-at="2018-06-01T07:12:18Z" finished-at="2018-06-01T07:12:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endprocess -->
+      </class> <!-- ecommerce.ecommerce.TC001_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
